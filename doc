@@ -1,0 +1,27 @@
+
+Pranav Limbekar: 118393711
+Vaishanth Ramaraj:118154237
+Joseph Pranadeer Reddy Katakam: 117517958
+Sri Sai Charan Velisetti:117509755
+Bharadwaj Chukkala:118341705
+
+Instructions to run the package:
+
+step 1: Place the package in your src folder in ws.
+step 2: First run the following command 
+        roslaunch group2_rwa2 ariac.launch
+        
+        rosrun group2_rwa2 sensor_handler_node
+        rosrun group2_rwa2 b_agility_challenge_flip
+        rosrun group2_rwa2 insufficient_parts_challenge
+        rosrun group2_rwa2 sensor_blackout
+        rosrun group2_rwa2 order_handler
+        
+        
+
+
+
+
+
+
+
