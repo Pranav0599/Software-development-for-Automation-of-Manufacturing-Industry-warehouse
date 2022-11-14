@@ -1,0 +1,6 @@
+# srv file for service to check if something exists
+
+string part_type
+
+---
+bool success
