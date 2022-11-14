@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="group2_rwa2" type="main_handler_node" name="main_handler_node"></node>
+    <node pkg="group2_rwa2" type="conveyor_handler_node" name="conveyor_handler_node"></node>
+
+</launch>
